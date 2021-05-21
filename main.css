@@ -15,12 +15,12 @@ p {
     text-align: center;
     padding-bottom: 10px;
     font-family: 'Open Sans', sans-serif;
-    color: rgb(199, 117, 155);
+    color: rgb(238, 230, 234);
     font-size: 26px;
 }
 span {
     font-weight: 400;
-    color: rgb(0, 0, 0);
+    color: rgb(86, 165, 189);
 }
 img{
     display:block;
